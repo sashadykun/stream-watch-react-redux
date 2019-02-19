@@ -16,6 +16,12 @@
       "description": "with user id and login",
       "userId": "117018429774570860142",
       "id": 3
+    },
+    {
+      "title": "go back",
+      "description": "to all streams",
+      "userId": "117018429774570860142",
+      "id": 4
     }
   ]
 }
